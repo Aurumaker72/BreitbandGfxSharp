@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreitbandGfxSharp", "BreitbandGfxSharp\BreitbandGfxSharp.csproj", "{CAD5934F-3D72-4947-AA87-06B93C253DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreitbandGfxSharp.Types", "BreitbandGfxSharp.Types\BreitbandGfxSharp.Types.csproj", "{DE78B7B0-AE0E-490C-BCC2-A1935CA7DE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreitbandGfxSharp.Demos.Raylib", "BreitbandGfxSharp.Demos.Raylib\BreitbandGfxSharp.Demos.Raylib.csproj", "{694963FF-8C30-4185-AC7D-0EAFECDDFC38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD5934F-3D72-4947-AA87-06B93C253DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD5934F-3D72-4947-AA87-06B93C253DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD5934F-3D72-4947-AA87-06B93C253DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD5934F-3D72-4947-AA87-06B93C253DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE78B7B0-AE0E-490C-BCC2-A1935CA7DE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE78B7B0-AE0E-490C-BCC2-A1935CA7DE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE78B7B0-AE0E-490C-BCC2-A1935CA7DE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE78B7B0-AE0E-490C-BCC2-A1935CA7DE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694963FF-8C30-4185-AC7D-0EAFECDDFC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694963FF-8C30-4185-AC7D-0EAFECDDFC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694963FF-8C30-4185-AC7D-0EAFECDDFC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694963FF-8C30-4185-AC7D-0EAFECDDFC38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
