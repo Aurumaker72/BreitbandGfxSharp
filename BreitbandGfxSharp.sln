@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreitbandGfxSharp", "BreitbandGfxSharp\BreitbandGfxSharp.csproj", "{CAD5934F-3D72-4947-AA87-06B93C253DFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreitbandGfxSharp.Types", "BreitbandGfxSharp.Types\BreitbandGfxSharp.Types.csproj", "{DE78B7B0-AE0E-490C-BCC2-A1935CA7DE0A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreitbandGfxSharp.Demos.Raylib", "BreitbandGfxSharp.Demos.Raylib\BreitbandGfxSharp.Demos.Raylib.csproj", "{694963FF-8C30-4185-AC7D-0EAFECDDFC38}"
 EndProject
 Global
